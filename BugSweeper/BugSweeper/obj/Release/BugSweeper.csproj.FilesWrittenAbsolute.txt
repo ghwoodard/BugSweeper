@@ -1,0 +1,11 @@
+/Users/ghwoodard/Downloads/xamarin-forms-samples-master/BugSweeper/BugSweeper/BugSweeper/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/ghwoodard/Downloads/xamarin-forms-samples-master/BugSweeper/BugSweeper/BugSweeper/obj/Release/BugSweeper.Images.Xamarin120.png
+/Users/ghwoodard/Downloads/xamarin-forms-samples-master/BugSweeper/BugSweeper/BugSweeper/obj/Release/BugSweeper.Images.RedBug.png
+/Users/ghwoodard/Downloads/xamarin-forms-samples-master/BugSweeper/BugSweeper/BugSweeper/obj/Release/BugSweeper.BugSweeperPage.xaml
+/Users/ghwoodard/Downloads/xamarin-forms-samples-master/BugSweeper/BugSweeper/BugSweeper/obj/Release/BugSweeperPage.xaml.g.cs
+/Users/ghwoodard/Downloads/xamarin-forms-samples-master/BugSweeper/BugSweeper/BugSweeper/bin/Release/BugSweeper.dll.mdb
+/Users/ghwoodard/Downloads/xamarin-forms-samples-master/BugSweeper/BugSweeper/BugSweeper/bin/Release/BugSweeper.dll
+/Users/ghwoodard/Downloads/xamarin-forms-samples-master/BugSweeper/BugSweeper/BugSweeper/obj/Release/BugSweeper.dll
+/Users/ghwoodard/Downloads/xamarin-forms-samples-master/BugSweeper/BugSweeper/BugSweeper/obj/Release/BugSweeper.dll.mdb
+/Users/ghwoodard/Downloads/xamarin-forms-samples-master/BugSweeper/BugSweeper/BugSweeper/bin/Release/Xamarin.Forms.Core.dll
+/Users/ghwoodard/Downloads/xamarin-forms-samples-master/BugSweeper/BugSweeper/BugSweeper/bin/Release/Xamarin.Forms.Xaml.dll
